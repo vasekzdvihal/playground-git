@@ -12,14 +12,10 @@ function f() {
 
 function f() {
   console.log('f');
-}
-
-
-function f() {
+  console.log('f');
+  console.log('f');
+  console.log('f');
   console.log('f');
 }
 
 
-function f() {
-  console.log('f');
-}
