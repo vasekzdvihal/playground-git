@@ -1,7 +1,6 @@
 // This is main fce
 
 const person = {
-    name: 'John',
+    name: 'John Cena',
     age: 30,
-    isMarried: false
 };
